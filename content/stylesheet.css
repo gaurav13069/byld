@@ -1,0 +1,29 @@
+#header
+{
+	height: 50px;
+	margin-top: -60px;
+	margin-right: -8px;
+	margin-left: -8px;
+	background-color: red;
+	position: fixed;
+}
+#border{
+	padding-top: :10px;
+	margin-top: 60px;
+}
+ul{
+	list-style-type: none;
+	position: fixed;
+	margin: 20px;
+	margin-left:950px; 
+}
+li{
+	display: inline;
+	padding: 17px 25px 16px 25px;
+	border-left-style: solid;
+	border-left-width: 1px;
+
+}
+li:hover{
+	background-color: #f0f0f0;	
+}
